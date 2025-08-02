@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **afzalali5256@gmail.com**
 
-- 📄 Know about my experiences [afzal-resume.tiiny.site](afzal-resume.tiiny.site)
+- 📄 My Resume [afzal-resume.tiiny.site](afzal-resume.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
