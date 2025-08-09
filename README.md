@@ -6,6 +6,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/1afzal](https://github.com/1afzal)
 
+- 💻 My portfolio website [http://afzaldev.vercel.app]
+
 - 📫 How to reach me **afzalali5256@gmail.com**
 
 - 📄 My Resume [afzal-resume.tiiny.site](afzal-resume.tiiny.site)
