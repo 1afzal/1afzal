@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/1afzal](https://github.com/1afzal)
 
-- 💻 My portfolio website http://afzalali.vercel.app
+- 💻 My portfolio website https://afzal.website
 
 - 📫 How to reach me **afzalali5256@gmail.com**
 
