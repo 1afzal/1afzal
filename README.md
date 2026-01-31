@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Afzal</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-- 🔭 I’m currently working on [Vocalyst](https://github.com/amrathakamath/Vocalyst.git)
-
 - 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/1afzal](https://github.com/1afzal)
